@@ -1,6 +1,3 @@
-https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
-
-
 # Pool Chemistry Application
 
 ## Project Overview
@@ -16,6 +13,10 @@ This application serves as a digital tool and logbook for managing the chemistry
 ## Motivation
 
 As a lifeguard, I noticed inefficiencies in our current paper-based system for managing pool chemistry. This digital solution aims to streamline the process, improve data tracking, and potentially prevent unexpected pool closures due to chemical imbalances.
+
+
+https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
+
 
 ## Features
 
