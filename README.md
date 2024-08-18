@@ -1,38 +1,72 @@
-The purpose of this application is to act as a tool and logbook for balancing the chemistry of a public pool. Given a set of measurements for alkalinity, chlorine content, and pH, the application will provide several useful functions. Readings can be added for specific pools at certain times, and saved to a previously loaded logbook. Given a set range, it can determine whether a measurement is out of range, and if so how much it is. When it is out of range, a pop-up alert will occur. It also logs all readings to a logbook, allowing easy access for previous data. Additionally, it allows the user to view all the readings recorded, as well as filtering to see the current readings, to get a better history of the pool. For ease of use, it also enables filtering by pool type. All of these functions culminate in a useful digital pool logbook.
-
-FUTURE ADJUSTMENTS(not in scope of project): things could be added such as a calculator to determine exactly how much of a chemical needs to be added to fix the pool chemistry, and a statistical summary report can be requested, ideally with several filters such as only certain chemical types and a range of days/single date.
-
-This project is of interest to me because I work as a lifeguard, and noticed that any time a measurement is out of range, the person adding them has to find a piece of paper and go down a certain chemical chart to find how much of a certain corrective chemical to use. This is rather inefficient. Also, all of our measurements are recorded in a weekly notebook, which makes it difficult to track trends over time. This has lead to unexpected closures of certain pools for emergency maintenance in the past, so the need for such an application seems apparent to me. I hope that by implementing this project, I can design one for my workplace and propose it as a tool for my coworkers and I to use in replacement of traditional methods.
-
-
-
-
-
-
 https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
 
 
+# Pool Chemistry Application
 
+## Project Overview
 
+This application serves as a digital tool and logbook for managing the chemistry of public pools. It allows users to:
 
+- Add and log chemical readings (alkalinity, chlorine content, pH) for specific pools
+- Determine if measurements are within acceptable ranges
+- Receive alerts for out-of-range readings
+- View and filter historical data
+- Save and load pool logbooks
 
-User Stories
+## Motivation
 
+As a lifeguard, I noticed inefficiencies in our current paper-based system for managing pool chemistry. This digital solution aims to streamline the process, improve data tracking, and potentially prevent unexpected pool closures due to chemical imbalances.
 
-As a user, I want to be able to add a chemical reading with different chemical parameters, so that I can monitor the water quality.
-As a user, I want to choose which pool the new reading is for, so I can add a pool reading to a specific pool.
-As a user, I want all new readings added to be added to a list of past pool readings for the specific pool, and to view these lists.
-As a user, I want to be able to simultaneously view the current readings of all pools of interest.
-As a user, I want to have the option to save each separate pool history list to file.
-As a user, I want to be able to be able to load each separate pool history list from file (if I so choose), so that I may continue adding to each pool's chemical history.
-As a user, I want to be alerted if any of the data for chemical levels that I record is out of range, and be reminded what the range is.
+## Features
 
+- Add chemical readings for different pool types
+- View current readings for all pools
+- Maintain separate history lists for each pool
+- Save and load pool history from files
+- Receive alerts for out-of-range chemical levels
 
-Instructions for User
+## Future Enhancements (not in current scope)
 
+- Chemical addition calculator
+- Statistical summary reports with various filters
 
-You can generate the first required action related to adding Xs to a Y by clicking the "Add New Pool Reading" Button Panel. Specify the pool type as one of: hottub, shallowpool, lanepool
-You can generate the second required action related to adding Xs to a Y by clicking the "Filter Readings By Pool" Button Panel, specify pool type as one of: hottub, shallowpool, lanepool, and can do again after adding/loading an arbitrary amount of pool readings.
-You can locate my visual component by clicking the "Add New Pool Reading" Button Panel, completing a reading, then clicking any button. A graphic indicating the reading has been added appears and disappears with the instantiation of a new button.
-You can save the state of my application by clicking the "Save Pool Logbook" Button Panel.
-You can reload the state of my application by clicking the "Load Pool Logbook" Button Panel.
+## User Guide
+
+1. **Add New Pool Reading**: 
+   - Click "Add New Pool Reading"
+   - Specify pool type (hottub, shallowpool, lanepool)
+   - Enter chemical readings
+
+2. **Filter Readings**: 
+   - Click "Filter Readings By Pool"
+   - Specify pool type
+
+3. **Save Logbook**: 
+   - Click "Save Pool Logbook"
+
+4. **Load Logbook**: 
+   - Click "Load Pool Logbook"
+
+5. **Visual Feedback**: 
+   - A graphic appears briefly after adding a new reading
+
+## Technical Details
+
+- Language: [Your programming language]
+- Dependencies: [List any major libraries or frameworks used]
+
+## Installation
+
+[Provide instructions on how to install and run your application]
+
+## Contributing
+
+[If you're open to contributions, provide guidelines here]
+
+## License
+
+[Specify the license under which your project is released]
+
+---
+
+This project was developed as part of [Your Course/Program Name] at [Your Institution].
