@@ -5,6 +5,8 @@ FUTURE ADJUSTMENTS(not in scope of project): things could be added such as a cal
 This project is of interest to me because I work as a lifeguard, and noticed that any time a measurement is out of range, the person adding them has to find a piece of paper and go down a certain chemical chart to find how much of a certain corrective chemical to use. This is rather inefficient. Also, all of our measurements are recorded in a weekly notebook, which makes it difficult to track trends over time. This has lead to unexpected closures of certain pools for emergency maintenance in the past, so the need for such an application seems apparent to me. I hope that by implementing this project, I can design one for my workplace and propose it as a tool for my coworkers and I to use in replacement of traditional methods.
 
 User Stories
+
+
 As a user, I want to be able to add a chemical reading with different chemical parameters, so that I can monitor the water quality.
 As a user, I want to choose which pool the new reading is for, so I can add a pool reading to a specific pool.
 As a user, I want all new readings added to be added to a list of past pool readings for the specific pool, and to view these lists.
@@ -15,6 +17,8 @@ As a user, I want to be alerted if any of the data for chemical levels that I re
 
 
 Instructions for User
+
+
 You can generate the first required action related to adding Xs to a Y by clicking the "Add New Pool Reading" Button Panel. Specify the pool type as one of: hottub, shallowpool, lanepool
 You can generate the second required action related to adding Xs to a Y by clicking the "Filter Readings By Pool" Button Panel, specify pool type as one of: hottub, shallowpool, lanepool, and can do again after adding/loading an arbitrary amount of pool readings.
 You can locate my visual component by clicking the "Add New Pool Reading" Button Panel, completing a reading, then clicking any button. A graphic indicating the reading has been added appears and disappears with the instantiation of a new button.
