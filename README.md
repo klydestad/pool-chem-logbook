@@ -4,6 +4,12 @@ FUTURE ADJUSTMENTS(not in scope of project): things could be added such as a cal
 
 This project is of interest to me because I work as a lifeguard, and noticed that any time a measurement is out of range, the person adding them has to find a piece of paper and go down a certain chemical chart to find how much of a certain corrective chemical to use. This is rather inefficient. Also, all of our measurements are recorded in a weekly notebook, which makes it difficult to track trends over time. This has lead to unexpected closures of certain pools for emergency maintenance in the past, so the need for such an application seems apparent to me. I hope that by implementing this project, I can design one for my workplace and propose it as a tool for my coworkers and I to use in replacement of traditional methods.
 
+
+
+
+
+
+
 User Stories
 
 
