@@ -26,10 +26,6 @@ https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
 - Save and load pool history from files
 - Receive alerts for out-of-range chemical levels
 
-## Future Enhancements (not in current scope)
-
-- Chemical addition calculator
-- Statistical summary reports with various filters
 
 ## User Guide
 
@@ -54,7 +50,8 @@ https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
 ## Technical Details
 
 - Language: Java
-- Dependencies: JUnit, 
+- Dependencies: JUnit, JSON,
+- Features: Data persistence, UI design
 
 
 This project was developed as part of CPSC 210 at UBC.
