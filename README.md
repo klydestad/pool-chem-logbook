@@ -49,8 +49,9 @@ https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
 
 ## Technical Details
 
-- Language: Java
-- Dependencies: JUnit, JSON,
+- Languages: Java
+- Environments: IntelliJ IDEA
+- Dependencies: JUnit, JSON, 
 - Features: Data persistence, UI design
 
 
