@@ -53,21 +53,8 @@ https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
 
 ## Technical Details
 
-- Language: [Your programming language]
-- Dependencies: [List any major libraries or frameworks used]
+- Language: Java
+- Dependencies: JUnit, 
 
-## Installation
 
-[Provide instructions on how to install and run your application]
-
-## Contributing
-
-[If you're open to contributions, provide guidelines here]
-
-## License
-
-[Specify the license under which your project is released]
-
----
-
-This project was developed as part of [Your Course/Program Name] at [Your Institution].
+This project was developed as part of CPSC 210 at UBC.
