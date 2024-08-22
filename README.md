@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/d75e6359-52c5-4c20-b4cb-cc3808e3449e
 - Languages: Java
 - Environments: IntelliJ IDEA
 - Dependencies: JUnit, JSON, 
-- Features: Data persistence, UI design
+- Key concepts: Object oriented design, data persistence, UI design, throwing exceptions
 
 
 This project was developed as part of CPSC 210 at UBC.
